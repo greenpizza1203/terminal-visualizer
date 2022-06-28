@@ -1,0 +1,56 @@
+{
+  "data": {
+    "bosses": [
+      {
+        "id": 67,
+        "name": "PunchbagRob",
+        "description": "Doesn't fight back",
+        "difficulty": 1,
+        "ordinalPriorityGroup": 2,
+        "ordinalPriority": 1,
+        "competitionBoss": false,
+        "useOldConfig": false
+      },
+      {
+        "id": 69,
+        "name": "Infiltrator",
+        "description": "Industrial espionage",
+        "difficulty": 2,
+        "ordinalPriorityGroup": 2,
+        "ordinalPriority": 3,
+        "competitionBoss": false,
+        "useOldConfig": false
+      },
+      {
+        "id": 68,
+        "name": "Foreman",
+        "description": "A captain of industry",
+        "difficulty": 1,
+        "ordinalPriorityGroup": 2,
+        "ordinalPriority": 2,
+        "competitionBoss": false,
+        "useOldConfig": false
+      },
+      {
+        "id": 73,
+        "name": "Ironclad",
+        "description": "Ironclad",
+        "difficulty": 3,
+        "ordinalPriorityGroup": 2,
+        "ordinalPriority": 5,
+        "competitionBoss": false,
+        "useOldConfig": false
+      },
+      {
+        "id": 72,
+        "name": "Captain",
+        "description": "Upgraded Factory EMP left",
+        "difficulty": 2,
+        "ordinalPriorityGroup": 2,
+        "ordinalPriority": 4,
+        "competitionBoss": false,
+        "useOldConfig": false
+      }
+    ]
+  }
+}

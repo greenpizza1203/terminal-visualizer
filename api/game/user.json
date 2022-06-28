@@ -1,0 +1,25 @@
+{
+"data": {
+"id": 34088,
+"isAdmin": false,
+"displayName": "greenpizza12",
+"dateJoined": "2021-05-15T18:26:20.320Z",
+"avatarUrl": "https://avatars.githubusercontent.com/u/50718974?v=4",
+"name": "Karthikeya",
+"firstName": "Karthikeya",
+"lastName": "Kona",
+"email": "konakarthik12@gmail.com",
+"githubUsername": "greenpizza1203",
+"githubProfileUrl": "https://github.com/greenpizza1203",
+"currentRole": "Student",
+"jobInterest": false,
+"sharedEmailWithTeam": false,
+"rankedTier": "Bronze",
+"location": {
+"country": "United States of America",
+"state": "Maryland"
+},
+"noAlgos": true,
+"sponsor": null
+}
+}
