@@ -2,6 +2,9 @@ const express = require('express')
 const path = require("path");
 const app = express()
 const port = process.env.port ?? 8080
+app.get('/', (req, res) => {
+    res.send('Hello')
+})
 app.get('/playground', (req, res) => {
     res.sendFile(path.join(__dirname, 'playground/index.html'))
 })
